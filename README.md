@@ -6,30 +6,13 @@
 </h1>
 
 #### A Telegram robot can clone medias from any chat to your own chat.<br>
-`Read the documentation to know how to use the bot`
 <br>
 <br>
         
-<p align="center">
-    <a href="https://www.python.org">
-        <img src="https://img.shields.io/badge/PYTHON-PROJECT-blueviolet?style=for-the-badge&logo=python">
-    </a><br>
-    <a href="https://github.com/m4mallu/clonebot/stargazers">
-        <img src="https://img.shields.io/github/stars/m4mallu/clonebot?style=social">
-    </a>
-    <a href="https://github.com/m4mallu/clonebot/fork">
-        <img src="https://img.shields.io/github/forks/m4mallu/clonebot?label=Fork&style=social">
-    </a>  
-</p>
 
 <details>
   <summary><b>Deploy</b></summary>
     <p align="left">
-        <br><b><u>This repository cannot be able deploy in heroku due to some reasons.</u></b><br>To deploy this bot in heroku..<br><br>
-        1. Fork this Repository first.<br>
-        2. Change the URL of 'repository' parameter in <a href="https://github.com/m4mallu/clonebot/blob/master/app.json#L7"> app.json</a> to your fork URL.<br>
-        3. Change the <a href="https://github.com/m4mallu/clonebot/blob/master/README.md?plain=1#L33"> Deploy button URL</a> to your fork URL.<br>
-        4. Finally, deploy it from your own fork.<br><br>
       <a href="https://heroku.com/deploy?template=https://github.com/Zahidempire/clonebot" target="_blank">
         <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
