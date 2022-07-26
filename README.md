@@ -1,11 +1,9 @@
 <h1 align="left">
     <a target="_blank">
-        Clonebot
-        <img src="http://www.randomnoun.com/wpf/shell32-avi/tshell32_160.gif" width="272" height="60">
-    </a>
+        Best Forward Bot
 </h1>
 
-#### A Telegram robot can clone medias from any chat to your own chat.<br>
+#### A Telegram robot can forward message from any chat to your own chat.<br>
 <br>
 <br>
         
@@ -18,75 +16,3 @@
   </a>
 </p>
 </details>
-<details>
-  <summary><b>Developer</b></summary>
-    <p align="left">
-        <img alt="GPL3" src ="https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="260px" style="max-width:100%;"/><br>
-            <a href="https://t.me/space4renjith"><img src="https://img.shields.io/badge/Renjith-Mangal-orange" height="24">
-        </a>&nbsp;
-            <a href="https://t.me/rmprojects"><img src="https://img.shields.io/badge/Updates-Channel-orange" height="24">
-        </a>
-</p>
-</details>
-<details>
-  <summary><b>Documentation</b></summary>
-    <p align="left">
-      <a href="https://space4renjith.blogspot.com/2022/05/clonebot-technical-documentation.html">
-        <img src="https://img.shields.io/badge/Read-Documentation-blueviolet?style=for-the-badge&logo=telegraph">
-    </a>
-</p>
-</details>
-<details>
-  <summary><b>Support this project</b></summary>
-    <p align="left">
-    <b>Buy me a coffee for my work !</b><br><br>
-    <img src="https://telegra.ph/file/b926b7e8ea84826d81d8a.png" width="260px" style="max-width:100%;"/><br><br>
-      <a href="https://www.paypal.me/space4renjith" target="_blank">
-        <img src="https://img.shields.io/badge/Donate-Me-blueviolet?style=for-the-badge&logo=paypal">
-    </a>
-</p>
-</details>
-<details>
-  <summary><b>Releases</b></summary>
-    <p align="left">
-    <a href="https://github.com/m4mallu/clonebot/releases/tag/1.1">
-        <img src="https://img.shields.io/badge/RELEASE-1.1-orange?style=for-the-badge&logo=gplv3">
-    </a>
-    <a href="https://github.com/m4mallu/clonebot/releases/tag/1.2">
-        <img src="https://img.shields.io/badge/RELEASE-1.2-orange?style=for-the-badge&logo=gplv3">
-    </a>
-    <a href="https://github.com/m4mallu/clonebot/releases/tag/1.3">
-        <img src="https://img.shields.io/badge/RELEASE-1.3-orange?style=for-the-badge&logo=gplv3">
-    </a>
-    <a href="https://github.com/m4mallu/clonebot/releases/tag/1.4">
-        <img src="https://img.shields.io/badge/RELEASE-1.4-orange?style=for-the-badge&logo=gplv3">
-    </a>
-    <a href="https://github.com/m4mallu/clonebot/releases/tag/1.5">
-        <img src="https://img.shields.io/badge/RELEASE-1.5-orange?style=for-the-badge&logo=gplv3">
-    </a>
-</p>
-</details>
-<details>
-  <summary><b>License</b></summary>
-    <p align="left">
-    <a href="https://choosealicense.com/licenses/gpl-3.0/">
-        <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge&logo=gplv3">
-    </a>
-</p>
-</details>
-<details>
-  <summary><b>Credits</b></summary>
-    <p align="left">
-      <a href="https://github.com/pyrogram/pyrogram">
-        <img src="https://img.shields.io/badge/Pyrogram-MTProto%20API-orange?style=for-the-badge&logo=pyrogram">
-    </a>
-</p>
-</details>
-
-<p align="center">
-    <a href="https://t.me/space4renjith">
-        <img alt="GPL3" src ="https://telegra.ph/file/c4f778ccfc576a954dd20.gif" width="340" height="214"/>
-    </a>
-</p>
-
-
